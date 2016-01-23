@@ -1,0 +1,8 @@
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.exe.config
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.exe
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.pdb
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.csprojResolveAssemblyReference.cache
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.exe
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.pdb
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\bin\Debug\RPSData.dll
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsConsole\bin\Debug\RPSData.pdb

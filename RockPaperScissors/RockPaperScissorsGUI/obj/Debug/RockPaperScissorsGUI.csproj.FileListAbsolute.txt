@@ -1,0 +1,11 @@
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.csprojResolveAssemblyReference.cache
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.Form1.resources
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.Properties.Resources.resources
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.csproj.GenerateResource.Cache
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.exe.config
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.exe
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\bin\Debug\RockPaperScissorsGUI.pdb
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.exe
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\obj\Debug\RockPaperScissorsGUI.pdb
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\bin\Debug\RPSData.dll
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RockPaperScissorsGUI\bin\Debug\RPSData.pdb

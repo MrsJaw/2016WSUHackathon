@@ -1,0 +1,5 @@
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RPSData\bin\Debug\RPSData.dll
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RPSData\bin\Debug\RPSData.pdb
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RPSData\obj\Debug\RPSData.csprojResolveAssemblyReference.cache
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RPSData\obj\Debug\RPSData.dll
+C:\Users\bryso\Documents\GitHub\2016WSUHackathon\RockPaperScissors\RPSData\obj\Debug\RPSData.pdb
