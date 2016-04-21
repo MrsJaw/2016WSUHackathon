@@ -77,22 +77,24 @@ namespace Memory
                 {
                     Console.WriteLine("Guess a letter:");
                     GuessedLetter = Console.ReadKey().KeyChar;
-                    ValidGuess = _Letters.Contains(GuessedLetter) && !_GuessedLetters.Contains(GuessedLetter);                                       
+                    ValidGuess = _Letters.Contains(GuessedLetter) && !_GuessedLetters.Contains(GuessedLetter);
+
+                    if (ValidGuess)
+                    {
+                        _GuessedLetters.Add(GuessedLetter);
+
+                        if (_Word.Contains(GuessedLetter))
+                        {
+                            Message = "Correct!!";
+                        }
+                        else
+                        {
+                            _NumberOfMistakes++;
+                            Message = "OH NO!!";
+                        }
+                    }
+                    DrawBoard(Message);
                 } while (!ValidGuess);
-
-                _GuessedLetters.Add(GuessedLetter);
-
-                if(_Word.Contains(GuessedLetter))
-                {
-                    Message = "Correct!!";
-                }
-                else
-                {
-                    _NumberOfMistakes++;
-                    Message = "OH NO!!";
-                }
-
-                DrawBoard(Message);
             }
 
             DrawBoard();
